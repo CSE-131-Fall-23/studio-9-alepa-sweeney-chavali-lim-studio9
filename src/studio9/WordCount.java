@@ -31,9 +31,9 @@ public class WordCount {
 	public static Map<String, Integer> countWords(List<String> words) {
 
 		// FIXME
-		int coun
+		int count = 0;
 		if(String.equals(String)) {
-			
+			count++;
 		}
 
 	}
